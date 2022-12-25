@@ -1,0 +1,17 @@
+https://bscscan.com/token/0xdce927c84ba103a64e6fc54ef5b0a7d4c6dc0f4f
+
+
+Steps:
+1) Fist I have create layout using flex property in base section having sidebar section and main section.  import sidebar component and mainthrough props parent to child.
+
+2)In sidebar component I insert logo to the top. I have fixed sidebar width and height in (vh). apply backgound color, font-size and add icon in the list of menu.
+
+3) to fix main section content of th dashboard define height in (vh), psoition absolute.
+
+4) add header to the top of by position absolute to occure in top of the page.
+
+5) In main section i Have import Hero componet.
+
+6) In container use row and col to add content. to use call Api from bscscan.com/api but can't try befor and put my effort but I can't call these api from bscscan.com. then I use static data in content.
+
+7) I have add image gift as a background image to main dev define height width and inner dev i place text then align it center
